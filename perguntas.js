@@ -28,5 +28,6 @@ criaCartao(
 )
 criaCartao(
     'Educação Financeira',
-    'Por que é importante começar a poupar desde cedo?'
+    'Por que é importante começar a poupar desde cedo?',
+    'Porque o hábito de poupar ajudar a conquiatar metas, ter segurança financeira no futuro e aproveitar os juros compostos nos investimemntos'
 )
